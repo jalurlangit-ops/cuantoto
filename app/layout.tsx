@@ -57,15 +57,15 @@ export default function RootLayout({
       <head>
         <meta charSet="utf-8" />
         <title>Cuantoto : Daftar Slot Online Dan Slot Online Terpercaya</title>
-        <meta name="description" content="18toto hadir sebagai solusi bagi pecinta slot online yang mencari kemudahan dan kenyamanan dalam bermain. Dengan fitur slot deposit 3000 via Dana, Anda dapat menikmati permainan seru tanpa harus mengeluarkan modal besar" />
-        <meta name="keywords" content="18toto, Deposit Dana 5000k, Situs Judi Online, Dana Slot77, situs Slot Dana, Gopay 69 Slot, Situs Slot Deposit 5000, Situs Slot Gacor Hari Ini Via Dana, Slot Deposit 3000 Via Dana, Situs Slot Gacor Jam Ini" />
-        <meta name="google-site-verification" content="veMyOTuOGYmEQDMDDL9R58xwmmCMdesJMcTMkYDqZ3Q" />
-        <meta name="application-name" content="18toto" />
+        <meta name="description" content="Cuantoto hadir sebagai salah satu platform terbaik untuk Anda yang mencari pengalaman bermain slot online berkualitas dan terpercaya. Dengan berbagai pilihan permainan slot yang lengkap dan menarik, Cuantoto memastikan setiap pemain dapat menikmati sensasi permainan yang seru dan menguntungkan" />
+        <meta name="keywords" content="Cuantoto, Daftar Slot Online, Slot Gacor Terbaru 2025, Slot Dana 5000, Deposit Pulsa Tanpa Potongan, Slot RTP Tertinggi Hari Ini, Olympus Slot, Situs Slot Deposit Via E Wallet, Slot Deposit Pulsa, Slot Tanpa Deposit, Situs Deposit 5000, Slot Deposit 1000 Via Dana, Slot Online Terpercaya" />
+        <meta name="google-site-verification" content="eBm286QQ_HqmyMdEDlV-ShjbP5ni04j8yJ_kMekrslo" />
+        <meta name="application-name" content="cuantoto" />
         <link rel="author" href={nameDomain} />
         <link rel="canonical" href={nameDomain} />
-        <meta name="author" content="18toto" />
-        <meta name="publisher" content="18toto" />
-        <meta name="copyright" content="18toto" />
+        <meta name="author" content="cuantoto" />
+        <meta name="publisher" content="cuantoto" />
+        <meta name="copyright" content="cuantoto" />
         <meta name="robots" content="index, follow" />
         <meta name="googlebot" content="index, follow" />
         <meta name="category" content="slot" />
@@ -82,14 +82,14 @@ export default function RootLayout({
         <meta property="og:title" content="Cuantoto : Daftar Slot Online Dan Slot Online Terpercaya" />
         <meta property="og:description" content="Cuantoto : Daftar Slot Online Dan Slot Online Terpercaya, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!" />
         <meta property="og:url" content={nameDomain} />
-        <meta property="og:site_name" content="18toto" />
+        <meta property="og:site_name" content="cuantoto" />
         <meta property="og:locale" content="id_ID" />
         <meta property="og:image" content={nameDomain} />
         <meta property="og:image:width" content="840" />
         <meta property="og:image:height" content="480" />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:creator" content="18toto" />
+        <meta name="twitter:creator" content="cuantoto" />
         <meta name="twitter:title" content="Cuantoto : Daftar Slot Online Dan Slot Online Terpercaya" />
         <meta name="twitter:description" content="Cuantoto : Daftar Slot Online Dan Slot Online Terpercaya, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!" />
         <meta name="twitter:image" content={nameDomain} />
