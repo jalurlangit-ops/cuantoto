@@ -34,7 +34,7 @@ function rank() {
 	"author": {
             "@type": "Person",
             "name": "Cuantoto : Daftar Slot Online Dan Slot Online Terpercaya",
-            "reviewBody": "Cuantoto : Daftar Slot Online Dan Slot Online Terpercaya, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!"
+            "reviewBody": "Cuantoto hadir sebagai salah satu platform terbaik untuk Anda yang mencari pengalaman bermain slot online berkualitas dan terpercaya. Dengan berbagai pilihan permainan slot yang lengkap dan menarik, Cuantoto memastikan setiap pemain dapat menikmati sensasi permainan yang seru dan menguntungkan"
           }
         },
     "offers": {
@@ -47,6 +47,22 @@ function rank() {
     };
   }
 
+function histats() {
+    return {
+      __html: `
+        var _Hasync= _Hasync|| [];
+        _Hasync.push(['Histats.start', '1,4921037,4,5,172,25,00010000']);
+        _Hasync.push(['Histats.fasi', '1']);
+        _Hasync.push(['Histats.track_hits', '']);
+        (function() {
+        var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+        hs.src = ('//s10.histats.com/js15_as.js');
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+        })();
+      `,
+    };
+  };
+
 export default function RootLayout({
   children
 }: Readonly<{
@@ -55,7 +71,6 @@ export default function RootLayout({
   return (
     <html lang="id" data-browser="chrome">
       <head>
-        <meta charSet="utf-8" />
         <title>Cuantoto : Daftar Slot Online Dan Slot Online Terpercaya</title>
         <meta name="description" content="Cuantoto hadir sebagai salah satu platform terbaik untuk Anda yang mencari pengalaman bermain slot online berkualitas dan terpercaya. Dengan berbagai pilihan permainan slot yang lengkap dan menarik, Cuantoto memastikan setiap pemain dapat menikmati sensasi permainan yang seru dan menguntungkan" />
         <meta name="keywords" content="Cuantoto, Daftar Slot Online, Slot Gacor Terbaru 2025, Slot Dana 5000, Deposit Pulsa Tanpa Potongan, Slot RTP Tertinggi Hari Ini, Olympus Slot, Situs Slot Deposit Via E Wallet, Slot Deposit Pulsa, Slot Tanpa Deposit, Situs Deposit 5000, Slot Deposit 1000 Via Dana, Slot Online Terpercaya" />
@@ -80,7 +95,7 @@ export default function RootLayout({
         <meta name="distribution" content="global" />
         <meta name="format-detection" content="telephone=no, address=no, email=no" />
         <meta property="og:title" content="Cuantoto : Daftar Slot Online Dan Slot Online Terpercaya" />
-        <meta property="og:description" content="Cuantoto : Daftar Slot Online Dan Slot Online Terpercaya, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!" />
+        <meta property="og:description" content="Cuantoto hadir sebagai salah satu platform terbaik untuk Anda yang mencari pengalaman bermain slot online berkualitas dan terpercaya. Dengan berbagai pilihan permainan slot yang lengkap dan menarik, Cuantoto memastikan setiap pemain dapat menikmati sensasi permainan yang seru dan menguntungkan" />
         <meta property="og:url" content={nameDomain} />
         <meta property="og:site_name" content="cuantoto" />
         <meta property="og:locale" content="id_ID" />
@@ -91,12 +106,12 @@ export default function RootLayout({
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:creator" content="cuantoto" />
         <meta name="twitter:title" content="Cuantoto : Daftar Slot Online Dan Slot Online Terpercaya" />
-        <meta name="twitter:description" content="Cuantoto : Daftar Slot Online Dan Slot Online Terpercaya, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!" />
+        <meta name="twitter:description" content="Cuantoto hadir sebagai salah satu platform terbaik untuk Anda yang mencari pengalaman bermain slot online berkualitas dan terpercaya. Dengan berbagai pilihan permainan slot yang lengkap dan menarik, Cuantoto memastikan setiap pemain dapat menikmati sensasi permainan yang seru dan menguntungkan" />
         <meta name="twitter:image" content={nameDomain} />
         <link rel="icon" href="/favicon.ico?favicon.088e6c96.ico" sizes="256x256" type="image/x-icon" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="next-size-adjust" content="" />
         <script type="application/ld+json" dangerouslySetInnerHTML={rank()} key="product-jsonld" />
+        <script dangerouslySetInnerHTML={histats()} type="text/javascript" />
       </head>
       <body className={`${inter.variable} antialiased`}>{children}</body>
     </html>
