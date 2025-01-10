@@ -90,10 +90,10 @@ export default function Home() {
             </div>
             <h1>cuantoto 🔥 Situs Judi Resmi Deposit Dana Dan Slot Maxwin Terbesar!</h1>
             <p>
-              cuantoto muncul sebagai situs resmi yang menarik perhatian para pemain slot/casino/poker/baccarat/roulette/zeus. Dikenal karena menawarkan slot Maxwin terbesar, cuantoto menggabungkan rtp yang sangat akurat hingga 99%.
+              Cuantoto hadir sebagai pilihan utama bagi Anda yang mencari pengalaman bermain slot online terbaik dan terpercaya. Dengan berbagai pilihan game slot dari provider ternama, Cuantoto memberikan sensasi bermain yang seru dan peluang menang yang melimpah. Situs ini dirancang dengan antarmuka yang ramah pengguna, sehingga memudahkan pemain untuk menjelajahi koleksi permainan yang tersedia. Selain itu, Cuantoto menjamin keamanan data dan transaksi Anda, memastikan pengalaman bermain yang aman dan nyaman
             </p>
             <p>
-              cuantoto menyediakan pembayaran yang beragam dari E-wallet (Dana/Ovo/LinkAja/Sakuku/Jenius/Dll), QRIS yang cepat, serta beberapa bank national seperti BCA/BNI/MANDIRI/BRI!
+              Daftar sekarang di Cuantoto dan nikmati berbagai keuntungan menarik, mulai dari bonus sambutan hingga promosi harian yang siap meningkatkan peluang kemenangan Anda. Dengan layanan pelanggan 24/7 yang profesional, Cuantoto siap mendukung kebutuhan Anda kapan saja. Jadikan setiap putaran lebih menyenangkan dengan fitur menarik dan jackpot besar yang menanti Anda. Cuantoto adalah tempat di mana keberuntungan dan keseruan bertemu dalam satu platform
             </p>
             
             <p>
